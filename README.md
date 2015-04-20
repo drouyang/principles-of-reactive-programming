@@ -7,4 +7,4 @@ Assignment solutions by
 Jiannan Ouyang <br/>
 Ph.D. Candidate <br/>
 University of Pittsburgh <br/>
-[http://www.cs.pitt.edu/~ouyang/] <br/>
+http://www.cs.pitt.edu/~ouyang/ <br/>
