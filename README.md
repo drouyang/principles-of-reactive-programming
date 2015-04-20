@@ -1,5 +1,5 @@
 # Principles of Reactive Programming
-By Martin Odersky, Erik Meijer, Roland Kuhn.
+By Martin Odersky, Erik Meijer, Roland Kuhn. <br/>
 From [Course 2015](https://class.coursera.org/reactive-002)
 
 Assignment solutions by 
