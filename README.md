@@ -2,8 +2,8 @@
 By Martin Odersky, Erik Meijer, Roland Kuhn. <br/>
 From [Coursera 2015](https://class.coursera.org/reactive-002)
 
-* Assignment 1: Quickcheck
-* Assignment 2: Calculator
+* Assignment 1: Quickcheck (10/10)
+* Assignment 2: Calculator (10/10)
 
 #### Assignment Solutions by
 Jiannan Ouyang <br/>
