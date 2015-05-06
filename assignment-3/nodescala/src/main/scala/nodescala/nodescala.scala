@@ -30,12 +30,9 @@ trait NodeScala {
    *  @param body         the response to write back
    */
   private def respond(exchange: Exchange, token: CancellationToken, response: Response): Unit = {
-    //println(response)
     for (r <- response) {
       exchange.write(r)
-      println(r)
-      //println("heheh")
-      //if (token.isCancelled)
+      if (token.isCancelled) return
     }
   }
 
